@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/transition-v21/window_enter.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Application/src/main/res/transition-v21/window_enter.xml"
+    },
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/transition-v21/window_return.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Application/src/main/res/transition-v21/window_return.xml"
+    },
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/transition-v21/shared_move.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Application/src/main/res/transition-v21/shared_move.xml"
+    },
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/transition-v21/fade.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Application/src/main/res/transition-v21/fade.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/layout/gridpager_action.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/src/main/res/layout/gridpager_action.xml"
+    },
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/layout/gridpager_fullscreen_image.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/src/main/res/layout/gridpager_fullscreen_image.xml"
+    },
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/layout/gridpager_card.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/src/main/res/layout/gridpager_card.xml"
+    },
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/layout/text_bubble.xml",
+        "source": "/Users/indrakurniawan/Documents/materi IAK/XYZTouristAttractions/Wearable/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/res/layout/text_bubble.xml"
+    }
+]
